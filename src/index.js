@@ -1,2 +1,2 @@
 console.log('index.js')
-console.log('version-git-practise')
+console.log('version-git-practise-version2')
